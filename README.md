@@ -7,7 +7,11 @@ crear un servidor http usando express y tener un par de rutas.
  Reto
 Implemente una aplicación Node que devuelva una lista hardcodeada de productos desde la dirección http://localhost:8080/api/products
 
+
+
 [
+
+
   {
     "id": 1,
     "title": "new Title marcos",
