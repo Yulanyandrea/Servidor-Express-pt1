@@ -57,5 +57,7 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
 - Implemente una página en la dirección http://localhost:8080/info 
 -Implemente una ruta en la dirección http://localhost:8080/about que responda con tu información personal
 
-Que aprendi?
+                                                                 Que aprendi?
+
+
 La implementacion de express para este caso fue un poco más sencilla que los ejercicios trabajados anteriormente con solamente utilizando node.js .Sim embargo aun falta indagar acerca como funciona todo el mundo de express para la implementacion del CRUD 
