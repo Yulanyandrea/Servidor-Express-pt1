@@ -14,26 +14,47 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
 
   {
     "id": 1,
+    
     "title": "new Title marcos",
+    
     "price": 100004,
+    
     "description": "new Description",
+    
     "images": [
+    
       "https://api.lorem.space/image/shoes?w=640&h=480&r=5193",
+      
       "https://api.lorem.space/image/shoes?w=640&h=480&r=2221",
+      
       "https://api.lorem.space/image/shoes?w=640&h=480&r=2672"
+      
     ]
+    
   },
+  
   {
+  
     "id": 3,
+    
     "title": "new try",
+    
     "price": 29,
+    
     "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    
     "images": [
+    
       "https://api.lorem.space/image/fashion?w=640&h=480&r=4308",
+      
       "https://api.lorem.space/image/fashion?w=640&h=480&r=4555",
+      
       "https://api.lorem.space/image/fashion?w=640&h=480&r=4493"
+      
     ]
+    
   },
+  
   {
     "id": 4,
     "title": "Licensed Plastic Table",
