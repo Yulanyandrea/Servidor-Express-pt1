@@ -54,7 +54,9 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
   }
 ]
 
+
 - Implemente una página en la dirección http://localhost:8080/info 
+
 -Implemente una ruta en la dirección http://localhost:8080/about que responda con tu información personal
 
                                                                  Que aprendi?
