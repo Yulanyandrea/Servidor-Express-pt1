@@ -57,25 +57,41 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
   
   {
     "id": 4,
+    
     "title": "Licensed Plastic Table",
+    
     "price": 808,
+    
     "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    
     "images": [
+    
       "https://api.lorem.space/image/fashion?w=640&h=480&r=6769",
+      
       "https://api.lorem.space/image/fashion?w=640&h=480&r=6810",
+      
       "https://api.lorem.space/image/fashion?w=640&h=480&r=2350"
     ]
   },
   
   {
+  
     "id": 5,
+    
     "title": "Refined Plastic Shirt",
+    
     "price": 252,
+    
     "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    
     "images": [
+    
       "https://api.lorem.space/image/watch?w=640&h=480&r=9592",
+      
       "https://api.lorem.space/image/watch?w=640&h=480&r=6436",
+      
       "https://api.lorem.space/image/watch?w=640&h=480&r=4565"
+      
     ]
     
   }
