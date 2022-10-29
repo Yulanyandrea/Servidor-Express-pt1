@@ -66,6 +66,7 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
       "https://api.lorem.space/image/fashion?w=640&h=480&r=2350"
     ]
   },
+  
   {
     "id": 5,
     "title": "Refined Plastic Shirt",
@@ -76,7 +77,9 @@ Implemente una aplicación Node que devuelva una lista hardcodeada de productos 
       "https://api.lorem.space/image/watch?w=640&h=480&r=6436",
       "https://api.lorem.space/image/watch?w=640&h=480&r=4565"
     ]
+    
   }
+  
 ]
 
 
